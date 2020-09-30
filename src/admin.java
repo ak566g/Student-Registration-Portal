@@ -38,7 +38,7 @@ public class admin extends javax.swing.JFrame {
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
-
+        //creating java GUI elements
         jPanel3 = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
         submitButton = new javax.swing.JButton();
